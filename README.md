@@ -12,7 +12,7 @@
 - [`checklists/`](https://github.com/somita9/checklists) — чек-листы для веб-сайтов и приложений  
 - [`test-cases/`](https://github.com/somita9/test-cases) — тест-кейсы в формате таблиц/документов  
 - [`bug-reports/`](https://github.com/somita9/bug-reports) — оформленные баг-репорты  
-- `test-tasks/` — выполненные тестовые задания  
+- [`test-tasks/`](https://github.com/somita9/test-tasks) — выполненные тестовые задания  
 
 ---
 
